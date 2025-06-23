@@ -27,7 +27,7 @@ O objetivo foi criar um sistema para **registro eletrônico de ponto de estagiá
 - ✅ Cadastro, edição e exclusão de usuários
 - ✅ Validação de relatórios
 - ✅ Integração com SharePoint para dados seguros
-- ✅ **[Novo] Automação com Power Automate**:
+- ✅ Automação com Power Automate
   - Lembrete por e-mail próximo à entrega do primeiro relatório
   - Notificação automática por e-mail quando houver atualização de cadastro
 
@@ -53,21 +53,11 @@ O objetivo foi criar um sistema para **registro eletrônico de ponto de estagiá
 
 > As imagens podem ser visualizadas na pasta `/Screenshots`
 
-- Tela Inicial
-- Cadastro de Estagiário
-- Registro de Frequência
-- Relatórios no Power BI
-- Impressão de Histórico
-- Tela de edição
-- Tela de filtro e busca
-- Notificação automatizada (simulada)
-
----
 
 ## 📂 Estrutura do Repositório
-├── 📄 README.md
-├── 📁 Screenshots
-├── 📁 Documentacao
+    ├── 📄 README.md
+    ├── 📁 Screenshots
+    ├── 📁 Documentacao
 ---
 
 ## 🚀 Observações Finais
@@ -80,7 +70,7 @@ Este projeto foi uma grande oportunidade de aplicar conhecimentos de **desenvolv
 
 **Wolkendo Arias**  
 Estagiário em Tecnologia da Informação  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Portfólio](https://seu-portifolio.com) *(se tiver)*
+[LinkedIn](https://www.linkedin.com/in/wolkendo-arias-0643b918a/) | [Portfólio](https://maestrowoldo.github.io/Portfolio/) *
 
 > 📌 Projeto público para fins de portfólio e demonstração profissional.
 
